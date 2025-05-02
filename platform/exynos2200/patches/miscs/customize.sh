@@ -1,4 +1,3 @@
-
 # Encryption
 echo "Disabling encryption"
 LINE=$(sed -n "/^\/dev\/block\/by-name\/userdata/=" "$WORK_DIR/vendor/etc/fstab.s5e9925")
