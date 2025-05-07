@@ -79,7 +79,9 @@ jobs:
           cache: 'gradle'
 
       - name: Build dependencies
-        run: source ./buildenv.sh z3s
+        run: |
+          source ./buildenv.sh z3s
+          ./scripts/build_dependencies.sh
 
       - name: Update prebuilt blobs
         run: |
