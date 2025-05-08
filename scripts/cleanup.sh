@@ -26,9 +26,9 @@ PRINT_USAGE()
     echo " - kernel ($KERNEL_TMP_DIR)" >&2
     echo " - odin ($ODIN_DIR)" >&2
     echo " - fw ($FW_DIR)" >&2
-    echo " - apktool ($APKTOOL_DIR)" >&2
     echo " - work_dir ($WORK_DIR)" >&2
-    echo " - tools ($TOOLS_DIR))" >&2
+    echo " - logs ($OUT_DIR/**.log)" >&2
+    echo " - tools ($TOOLS_DIR)" >&2
 }
 # ]
 
@@ -56,13 +56,13 @@ while [ "$#" != 0 ]; do
             LOG "- Cleaning extracted firmwares dir..."
             rm -rf "$FW_DIR"
             ;;
-        "apktool")
-            LOG "- Cleaning decompiled apks/jars dir..."
-            rm -rf "$APKTOOL_DIR"
-            ;;
         "work_dir")
             LOG "- Cleaning ROM work dir..."
-            rm -rf "$WORK_DIR"
+            rm -rf "$(dirname "$WORK_DIR")"
+            ;;
+        "logs")
+            LOG "- Cleaning log files..."
+            find "$OUT_DIR" -type f -name "*.log" -delete
             ;;
         "tools")
             LOG "- Cleaning dependencies dir..."
