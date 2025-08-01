@@ -24,8 +24,6 @@ BUILD_ROM=false
 BUILD_ZIP=false
 BUILD_TAR=false
 
-export NO_COMPRESSION=false
-
 [[ "$TARGET_INSTALL_METHOD" == "zip" ]] && BUILD_ZIP=true
 [[ "$TARGET_INSTALL_METHOD" == "odin" ]] && BUILD_TAR=true
 
