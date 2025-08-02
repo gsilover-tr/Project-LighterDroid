@@ -25,10 +25,3 @@ PRODUCT_DEBLOAT+="
 overlay/SoftapOverlayDualAp
 overlay/SoftapOverlayOWE
 "
-
-# Camera SDK
-SYSTEM_DEBLOAT+="
-system/etc/default-permissions/default-permissions-com.samsung.videoscan.xml
-system/etc/permissions/privapp-permissions-com.samsung.videoscan.xml
-system/priv-app/VideoScan
-"
