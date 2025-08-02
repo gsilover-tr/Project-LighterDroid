@@ -99,4 +99,4 @@ jobs:
           md5sum "$ZIP_FILE"
 
           echo "SHA256:"
-          echo sha256sum "$ZIP_FILE"
+          sha256sum "$ZIP_FILE"
