@@ -19,6 +19,7 @@
 - Fixed progress bar in installer
 - Switched to EroFS SYSTEM partition
 - Fixed SDCard and OTG in TWRP for Exynos 9820/990
+- Updated all OdinPacks
 
 # 2.5.0
 - Switched base to S24 FE (S721BXXS6BYF5)
