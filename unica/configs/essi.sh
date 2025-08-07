@@ -15,15 +15,15 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-# ExtremeROM configuration file for Exynos devices (essi)
+# LighterDroid configuration file for Exynos devices (essi)
 
-# Galaxy S24 FE (One UI 7)
-SOURCE_CODENAME="r12s"
-SOURCE_FIRMWARE="SM-S721B/EUX/351273090276500"
+# Galaxy S25 Edge (One UI 7)
+SOURCE_CODENAME="psq"
+SOURCE_FIRMWARE="SM-S927B/EUX/351273090276500"
 SOURCE_EXTRA_FIRMWARES=()
 SOURCE_API_LEVEL=35
-SOURCE_PRODUCT_FIRST_API_LEVEL=34
-SOURCE_VNDK_VERSION="34"
+SOURCE_PRODUCT_FIRST_API_LEVEL=35
+SOURCE_VNDK_VERSION="none"
 SOURCE_HAS_SYSTEM_EXT=false
 SOURCE_SUPER_GROUP_NAME="group_basic"
 
@@ -31,9 +31,9 @@ SOURCE_SUPER_GROUP_NAME="group_basic"
 SOURCE_AUTO_BRIGHTNESS_TYPE="5"
 SOURCE_DVFS_CONFIG_NAME="dvfs_policy_default"
 SOURCE_NFC_CHIP_VENDOR="SLSI"
-SOURCE_FP_SENSOR_CONFIG="google_touch_display_optical,settings=3,aod_transition_animation"
-SOURCE_HAS_MASS_CAMERA_APP=true
-SOURCE_HAS_QHD_DISPLAY=false
+SOURCE_FP_SENSOR_CONFIG="google_touch_display_ultrasonic,settings=3,aod_transition_animation"
+SOURCE_HAS_MASS_CAMERA_APP=false
+SOURCE_HAS_QHD_DISPLAY=true
 SOURCE_HFR_MODE="2"
 SOURCE_HFR_SUPPORTED_REFRESH_RATE="60,120"
 SOURCE_HFR_DEFAULT_REFRESH_RATE="120"
