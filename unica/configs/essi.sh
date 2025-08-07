@@ -15,7 +15,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-# LighterDroid configuration file for Exynos devices (essi)
+# Project Elytra configuration file for Exynos devices (essi)
 
 # Galaxy S25 Edge (One UI 7)
 SOURCE_CODENAME="psq"
