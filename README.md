@@ -7,7 +7,7 @@
   <a href="https://github.com/ExtremeXT/ExtremeROM/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
   <a href="https://github.com/ExtremeXT/ExtremeROM/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
 </p>
-<p align="center">ExtremeROM Nexus is a work-in-progress custom firmware for Samsung Galaxy devices.</p>
+<p align="center">Project Elytra is a work-in-progress custom firmware forked from ExtremeROM for Galaxy note 20 ultra devices.</p>
 
 <p align="center">
   <a href="https://t.me/extremerom">💬 Telegram</a>
@@ -24,11 +24,10 @@ ExtremeROM Nexus supports devices using the Exynos 9820, Exynos 990, Exynos 2100
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
 # Features
-- Based on the latest stable OneUI 7 Galaxy S24 FE firmware
-- All software features from S24 FE
+- Based on the latest stable OneUI 7 Galaxy S25 Edge firmware
+- All software features from S25 Edge
 - S25 Ultra CSC, ringtones and more
 - Moderately Debloated
-- Heavily DeKnoxed
 - Full SELinux Support
 - Full Galaxy AI support
 - Completely upstreamed kernels for all officially supported devices
@@ -40,13 +39,11 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 - Adaptive Refresh Rate support (for some models)
 - Multi-User support
 - AppLock support
-- EroFS partitions
 - Stock models in Settings and user apps
 - High end animations
 - Native/live blur support
 - Debloated from useless system services/additional apps
 - [BluetoothLibraryPatcher](https://github.com/3arthur6/BluetoothLibraryPatcher) included
-- [KnoxPatch](https://github.com/salvogiangri/KnoxPatch) implemented in system frameworks
 - Extra mods (Disable Secure Flag, OutDoor mode, more coming soon)
 - Extra CSC features (Call recording, Network speed in status bar, 5GHz Hotspot)
 - Countless other small optimizations
