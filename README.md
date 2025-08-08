@@ -1,23 +1,33 @@
-<p a<img width="1280" height="640" alt="Project LighterDroid" src="https://github.com/user-attachments/assets/c2e2390c-acab-4012-87bb-8bcddf519e1b" />
-  
-<p align="center"> Project-Elytra is a work-in-progress custom firmware forked from ExtremeROM for Galaxy Note 20 ultra devices.</p>
-<p align="center">✨️Did you know?: Project-Elytra is also a work-in-progress custom stock firmware for Galaxy A34 and Galaxy S24 FE devices.</p>
 
+  <img width="1280" height="640" alt="Project LighterDroid(3)" src="https://github.com/user-attachments/assets/3f78e6d4-286a-4b2f-8fba-3ad509f20874" />
+
+# Project-Elytra
+Project-Elytra is a work-in-progress custom firmware forked from ExtremeROM for Galaxy Note 20 Ultra devices.
+
+**✨️Did you know?:** Project-Elytra is also a work-in-progress custom stock firmware for Galaxy A34 and Galaxy S24 FE devices.
+***
 <p align="center">
-  <a href="https://t.me/extremerom">💬 Telegram</a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/wiki">📖 Wiki</a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/CHANGELOG.md">📝 Changelog</a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/MAINTAINERS.md">🧑‍💻 Maintainers</a>
+  <a href="https://[[</p>](https://t.me/gsilover_tr)](https://t.me/gsilover_tr)">💬 Telegram</a>
 </p>
 
-# What is ExtremeROM Nexus?
-ExtremeROM Nexus is a work-in-progress custom firmware for Samsung Galaxy devices. It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
+***
+# What is Project-Elytra?
+## Galaxy Note20 Ultra (4G/5G, c2s/c2slte)
+Project-Elytra is a work-in-progress custom firmware forked from ExtremeROM for Galaxy Note 20 Ultra devices. It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
 It is based on the UN1CA build system which allows automatic downloading/extraction of the firmware, applying the required patches and generating a flashable zip/tar package for the specified target device.
-ExtremeROM Nexus supports devices using the Exynos 9820, Exynos 990, Exynos 2100 and Exynos 2200 SoCs
+
+## Galaxy S24 FE(r12s)
+Project-Elytra offers Galaxy AI experience with Debloated and Super Fast OneUI 7. It also includes additional features and tweaks to ensure the best possible experience out of the box.
+
+## Galaxy A34 5G(a34x)
+- This device's Project-Elytra version will have no Google and Samsung services!
+   - This means devices will be more secure, have more battery life and it has more privacy!
+
+### ⚠️Project-Elytra supports devices using the Exynos 990(c2s), Exynos 2400e(r12s) and MediaTek Dimensity 1080(a34x) SoCs
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
-
-# Features
+***
+# Features[Galaxy Note20 Ultra (4G/5G, c2s/c2slte)]
 - Based on the latest stable OneUI 7 Galaxy S25 Edge firmware
 - All software features from S25 Edge
 - S25 Ultra CSC, ringtones and more
@@ -42,10 +52,10 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 - Extra CSC features (Call recording, Network speed in status bar, 5GHz Hotspot)
 - Countless other small optimizations
 - More that I can't remember right now and will have to be added in the future
-
+***
 # Bugs
-See the <a href="https://github.com/ExtremeXT/ExtremeROM/issues">⚠ Issues</a> tab
-
+See the <a href="https://github.com/gsilover-tr/Project-Elytra/issues">⚠ Issues</a> tab
+***
 # Licensing
 This project is licensed under the terms of the [GNU General Public License v3.0](LICENSE). External dependencies might be distributed under a different license, such as:
 - [android-tools](https://github.com/nmeum/android-tools), licensed under the [Apache License 2.0](https://github.com/nmeum/android-tools/blob/master/LICENSE)
@@ -54,7 +64,7 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 - [img2sdat](https://github.com/xpirt/img2sdat), licensed under the [MIT License](https://github.com/xpirt/img2sdat/blob/master/LICENSE)
 - [platform_build](https://android.googlesource.com/platform/build/) (ext4_utils, f2fs_utils, signapk), licensed under the [Apache License 2.0](https://source.android.com/docs/setup/about/licenses)
 - [smali](https://github.com/google/smali), [multiple licenses](https://github.com/google/smali/blob/main/third_party/NOTICE)
-
+***
 # Accountability
 ```cpp
 #include <std_disclaimer.h>
@@ -73,9 +83,16 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 * flag removal etc.
 */
 ```
-
+***
 # Credits
-A big thanks goes to the following for their invaluable contributions in no particular order (MORE INFO AND PEOPLE: TO BE WRITTEN)
+- @ExtremeXT as this rom is built with his repo!
+- @ExtremeXT again for motivation and patch fixes
+- @osrott61-gh For helping me alot with patches and booting this base
+- @dupazlasu for checking logs, fixing patches!
+- @Mesazane for bluetooth fix patch!
+- @gsilover-tr for giving the idea of this rom.
+  
+Original ExtremeROM Credits: A big thanks goes to the following for their invaluable contributions in no particular order (MORE INFO AND PEOPLE: TO BE WRITTEN)
 - **[salvogiangri](https://github.com/salvogiangri)** for the UN1CA build system, OneUI patches, and general help and support while developing
 - **[Ocin4Ever](https://github.com/Ocin4Ever)** for a lot of help especially on smali, advice and emotional support :D
 - **[Igor](https://github.com/BotchedRPR)** for getting me into porting, teaching me the basics, and emotional support down the road
@@ -116,7 +133,7 @@ Original UN1CA credits:
 - **[iDrinkCoffee](https://github.com/iDrinkCoffee-TG)** and **[RisenID](https://github.com/RisenID)** for documentation revisioning
 - **[LineageOS Team](https://www.lineageos.org/)** for their original [OTA updater implementation](https://github.com/LineageOS/android_packages_apps_Updater)
 - *All the UN1CA project contributors and testers ❤️*
-
+***
 # Kernel sources and device trees
 - 9820 Kernel Source Code (Maintainer: @ExtremeXT): https://github.com/ExtremeXT/M62-backport
 - 9820 Device Tree Code (Maintainer: @ExtremeXT): https://github.com/ExtremeXT/android_device_samsung_exynos9820
@@ -126,6 +143,6 @@ Original UN1CA credits:
 - 2100 Device Tree Code (Maintainer: @xfwdrev/@maximusXZ): https://github.com/xfwdrev/android_device_samsung_exynos2100
 - 2200 Kernel Source Code (Maintainer: @dupazlasu): https://github.com/ExtremeXT/android_kernel_samsung_s5e9925
 - 2200 Device Tree Code (Maintainer: @dupazlasu): https://github.com/dupazlasu/android_device_samsung_s5e9925
-
+***
 # Stargazers over time
-[![Stargazers over time](https://starchart.cc/ExtremeXT/ExtremeROM.svg)](https://starchart.cc/ExtremeXT/ExtremeROM)
+[![Stargazers over time](https://starchart.cc/ExtremeXT/ExtremeROM.svg)](https://starchart.cc/gsilover-tr/Project-Elytra)
