@@ -1,13 +1,6 @@
-<h1 align="center">
-  <img loading="lazy" src="readme-res/banner.png"/>
-</h1>
-<p align="center">
-  <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/ExtremeXT/ExtremeROM?style=for-the-badge&logo=github"/></a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/commits/fifteen"><img loading="lazy" src="https://img.shields.io/github/last-commit/ExtremeXT/ExtremeROM/fifteen?style=for-the-badge"/></a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
-</p>
-<p align="center">Project-Elytra is a work-in-progress custom firmware forked from ExtremeROM for Galaxy Note 20 ultra devices.</p>
+<p a<img width="1280" height="640" alt="Project LighterDroid" src="https://github.com/user-attachments/assets/c2e2390c-acab-4012-87bb-8bcddf519e1b" />
+  
+<p align="center"> Project-Elytra is a work-in-progress custom firmware forked from ExtremeROM for Galaxy Note 20 ultra devices.</p>
 <p align="center">✨️Did you know?: Project-Elytra is also a work-in-progress custom stock firmware for Galaxy A34 and Galaxy S24 FE devices.</p>
 
 <p align="center">
