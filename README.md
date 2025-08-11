@@ -1,5 +1,4 @@
-
-  <img width="1280" height="640" alt="Project LighterDroid(3)" src="https://github.com/user-attachments/assets/3f78e6d4-286a-4b2f-8fba-3ad509f20874" />
+<img width="1920" height="1079" alt="banner" src="https://github.com/user-attachments/assets/c0054d33-3070-4a8d-ad72-e8bb7aff6dbe" />
 
 # Project-Elytra
 Project-Elytra is a work-in-progress custom firmware forked from ExtremeROM for Galaxy Note 20 Ultra devices.
@@ -90,7 +89,7 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 - @osrott61-gh For helping me alot with patches and booting this base
 - @dupazlasu for checking logs, fixing patches!
 - @Mesazane for bluetooth fix patch!
-- @gsilover-tr for giving the idea of this rom.
+- @gsilover-tr Owner/Founder
   
 Original ExtremeROM Credits: A big thanks goes to the following for their invaluable contributions in no particular order (MORE INFO AND PEOPLE: TO BE WRITTEN)
 - **[salvogiangri](https://github.com/salvogiangri)** for the UN1CA build system, OneUI patches, and general help and support while developing
