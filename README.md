@@ -89,7 +89,7 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 - @osrott61-gh For helping me alot with patches and booting this base
 - @dupazlasu for checking logs, fixing patches!
 - @Mesazane for bluetooth fix patch!
-- @gsilover-tr Owner/Founder
+- @elytra-tr920 Owner/Founder
   
 Original ExtremeROM Credits: A big thanks goes to the following for their invaluable contributions in no particular order (MORE INFO AND PEOPLE: TO BE WRITTEN)
 - **[salvogiangri](https://github.com/salvogiangri)** for the UN1CA build system, OneUI patches, and general help and support while developing
