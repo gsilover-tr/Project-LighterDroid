@@ -26,3 +26,14 @@
 ### v2025.8 Alpha 1
 - ⚙️ Android 14 OneUi 6.1
 - ⚙️ MicroG
+
+***
+## Galaxy S24 FE(S721B)
+### v2025.8 Alpha 1
+- ⚙️ BYF5 EUX Firmware
+- ⚙️ Android 15, OneUI 7.0
+- ✨ Galaxy AI
+- 🗑️ DeBloat
+- ⚙️ KernelSU-Next 1.0.9
+- 📲 Odin Flashing
+- 🔊 New boot and shutdown sounds made by @WalterGrayz
