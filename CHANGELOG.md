@@ -12,6 +12,7 @@
 - 📞 New Call sounds from UN1CA
 - 🗑️ Removed Fabric Crypto as its useless lmao
 - 🐞 Bug fixes
++ ✅ This is the last Alpha version we will move to Beta versions then
 
 ### v2025.8 Alpha 2
 - 🐞✅ Fix for Internal Problem Pop-up
@@ -19,3 +20,9 @@
 
 ### v2025.8 Alpha 1
 - ✅ Initial Alpha Release
+
+***
+## Galaxy A34 5G (SM-A346E)
+### v2025.8 Alpha 1
+- ⚙️ Android 14 OneUi 6.1
+- ⚙️ MicroG
