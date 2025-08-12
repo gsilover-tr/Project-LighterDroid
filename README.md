@@ -9,6 +9,8 @@ Project-Elytra is a work-in-progress custom firmware forked from ExtremeROM for 
 
 [🧑‍💻Maintainers](https://github.com/elytra-tr920/Project-Elytra/blob/fifteen/MAINTAINERS)
 
+[✨Changelogs](https://github.com/elytra-tr920/Project-Elytra/blob/fifteen/CHANGELOG.md)
+
 ***
 # What is Project-Elytra?
 ## Galaxy Note20 Ultra (4G/5G, c2s/c2slte)
