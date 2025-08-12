@@ -8,6 +8,9 @@ Project-Elytra is a work-in-progress custom firmware forked from ExtremeROM for 
 <p align="center">
   <a href="https://[[</p>](https://t.me/gsilover_tr)](https://t.me/gsilover_tr)">💬 Telegram</a>
 </p>
+<p align="center">
+  <a href="https://[[</p>](https://t.me/gsilover_tr)](https://t.me/gsilover_tr)">💬 Telegram</a>
+</p>
 
 ***
 # What is Project-Elytra?
