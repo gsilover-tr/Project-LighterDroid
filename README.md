@@ -5,12 +5,9 @@ Project-Elytra is a work-in-progress custom firmware forked from ExtremeROM for 
 
 **✨️Did you know?:** Project-Elytra is also a work-in-progress custom stock firmware for Galaxy A34 and Galaxy S24 FE devices.
 ***
-<p align="center">
-  <a href="https://[[</p>](https://t.me/gsilover_tr)](https://t.me/gsilover_tr)">💬 Telegram</a>
-</p>
-<p align="center">
-  <a href="https://[[</p>](https://t.me/gsilover_tr)](https://t.me/gsilover_tr)">💬 Telegram</a>
-</p>
+[💬 Telegram](https://t.me/gsilover_tr)
+
+[🧑‍💻Maintainers](https://github.com/elytra-tr920/Project-Elytra/blob/fifteen/MAINTAINERS)
 
 ***
 # What is Project-Elytra?
